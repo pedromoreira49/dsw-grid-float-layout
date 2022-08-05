@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container{
+	max-width: 1280px;
+	margin: 0 aut0;
+	padding: 0 2%;
+}
+
+.clear{clear: both;}
+
+header{
+	text-align: center;
+	color: white;
+	background-color: #036;
+	padding: 12px 0;
+	margin: 20px;
+}
+
+footer{
+	text-align: center;
+	background-color: #666;
+	padding: 12px 0;
+	margin: 20px;
+}
+
+.main{
+	overflow: auto;
+	float: left;
+}
+
+.box-content{
+	float: left;
+	background-color: #ccc;
+	margin: 10px;
+	padding: 15px;
+	width: 200px;
+	height: 200px;
+}
+
+
